@@ -11,8 +11,8 @@ end
 Then(/^I should see the Test result$/) do 
 
 module PrimeNumberGenerator 
-	def generate(startingValue,endingValue)
-	end
+  def generate(startingValue,endingValue)
+  end
 
   def isPrime(n)    
   end
